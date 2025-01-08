@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "main": "./main.js",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "nexe": "^4.0.0-rc.6"
+  },
+  "author": "Brahvim, UdHax0r",
+  "name": "college-storage-app"
+}
