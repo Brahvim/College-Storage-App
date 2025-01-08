@@ -1,0 +1,12 @@
+altgraph==0.17.4
+blinker==1.9.0
+click==8.1.8
+Flask==3.1.0
+itsdangerous==2.2.0
+Jinja2==3.1.5
+MarkupSafe==3.0.2
+packaging==24.2
+pyinstaller==6.11.1
+pyinstaller-hooks-contrib==2024.11
+python-magic==0.4.27
+Werkzeug==3.1.3
